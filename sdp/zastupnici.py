@@ -1,0 +1,1 @@
+print("Mi smo zastupnici sdp-a")
